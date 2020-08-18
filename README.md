@@ -1,4 +1,4 @@
-# CryptoMoneyApp
+#MoneyApp
 
 A mobile application that pulls data from the API.
 
